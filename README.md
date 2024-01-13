@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">🖥 Tech Stack</h2>
+<h1 align="left">🖥 Tech Stack</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="left">☄Contact with me☄</h2>
+<h1 align="left">☄Contact with me☄</h1>
 
 ###
 
@@ -44,6 +44,8 @@
 </div>
 
 ###
+
+<h1 align="left">Github Status 📊</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krispzin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
