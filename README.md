@@ -1,11 +1,29 @@
-<h1 align="left">Hi 👋! My name is Krispz - Noppawut</h1>
+<h1 align="left">Hi Everyone 👋! Welcome to my Github</h1>
 
 ###
 
-<p align="left">Hello there! I'm Krispz, a passionate third-year Srinakharinwirot University undergraduate studying computer science. I'm always excited to work with others, learn new things, and create in the realm of code. My interests, contributions, and projects are displayed in this repository. Please look around and get in touch with us if you have any queries!</p>
+<p align="left">Hello there! I'm Krispz, a passionate third-year Srinakharinwirot University undergraduate studying computer science. My interests, contributions, and projects are displayed in this repository. Please look around and get in touch with us if you have any queries!</p>
 
 ###
 
+<h1 align="left">🪪 About me</h1>
+
+- My real name is Noppawut and my friend like to call me Tetee ☃️
+- I'm a 3rd-year Computer Science student at Srinakharinwirot University 🎓
+- Currently studying a new programming language and tools 📝
+
+#
+
+<h1 align="left">✨ Interest</h1>
+
+###
+
+- ♾️ Development and Operation
+- 💻 Programming and Software Development
+- 🤖 Artificial Intelligence and Machine Learning
+- ☁ Cloud Development
+
+###
 <h1 align="left">🖥 Tech Stack</h1>
 
 ###
@@ -26,11 +44,18 @@
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
 </div>
+
 
 ###
 
-<h1 align="left">☄Contact with me☄</h1>
+<h1 align="left">📫 Contact with me</h1>
 
 ###
 
@@ -42,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
