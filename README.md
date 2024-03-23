@@ -22,6 +22,7 @@
 - 💻 Programming and Software Development
 - 🤖 Artificial Intelligence and Machine Learning
 - ☁ Cloud Development
+- 👓 Cyber Security
 
 ###
 <h1 align="left">🖥 Tech Stack</h1>
