@@ -20,7 +20,6 @@
 
 - ♾️ Development and Operation
 - 💻 Programming and Software Development
-- 🤖 Artificial Intelligence and Machine Learning
 - ☁ Cloud Development
 - 👓 Cyber Security
 
