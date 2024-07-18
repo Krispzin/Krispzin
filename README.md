@@ -9,7 +9,7 @@
 <h1 align="left">🧭 About me</h1>
 
 - My real name is Noppawut and my friend like to call me Tetee ☃️
-- I'm a 3rd-year Computer Science student at Srinakharinwirot University 🎓
+- I'm a 4th-year Computer Science student at Srinakharinwirot University 🎓
 - Currently studying a new programming language and tools 📝
 
 #
