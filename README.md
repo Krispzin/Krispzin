@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello there! I'm Krispz, a passionate third-year Srinakharinwirot University undergraduate studying computer science. My interests, contributions, and projects are displayed in this repository. Please look around and get in touch with us if you have any queries!</p>
+<p align="left">Hello there! I'm Krispz, a passionate forth-year Srinakharinwirot University undergraduate studying computer science. My interests, contributions, and projects are displayed in this repository. Please look around and get in touch with us if you have any queries!</p>
 
 ###
 
